@@ -9,3 +9,9 @@ En la raiz del proyecto dejo el script de la base de datos.
 
 Para la configuración de la base de datos ingese a application/config/database.php y reemplace las variables
 de conexión según este configurada su base de datos.
+
+No cambie el nombre de la carpeta raiz del proyecto.
+
+
+
+!!!Gracias por la oportunidad, esperare atento su respuesta!!!

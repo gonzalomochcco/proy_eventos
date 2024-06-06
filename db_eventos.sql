@@ -19,10 +19,10 @@
 -- Table structure for table `eventos`
 --
 
-CREATE DATABASE db_eventoss;
+CREATE DATABASE db_eventos;
 
 
-USE db_eventoss;
+USE db_eventos;
 
 
 DROP TABLE IF EXISTS `eventos`;
